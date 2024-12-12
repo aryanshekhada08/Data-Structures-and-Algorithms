@@ -1,5 +1,5 @@
 #include<conio.h>
-#include<stdio.h>
+#include<stdio.h>//under stand this a binaeryscaech how works
 
 int binaryscarch(int arr[], int size ,int element)
 {
